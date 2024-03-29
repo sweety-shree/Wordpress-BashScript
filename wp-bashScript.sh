@@ -9,4 +9,4 @@ sudo curl -L "https://github.com/docker/compose/releases/latest/download/docker-
 sudo chmod +x /usr/local/bin/docker-compose
 git clone https://github.com/GOUSERABBANI44/wordpress.git 
 cd wordpress
-docker-compose up –d
+usr/local/bin/docker-compose up -d
